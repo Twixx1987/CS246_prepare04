@@ -2,4 +2,8 @@ simple testing and playing with Git. This should be pretty cool.
 
 This should work great and be really cool!!!
 
+<<<<<<< HEAD
 push into the repository but always make sure you pull first.
+=======
+more changes to see merge conflicts via push prior to pull.
+>>>>>>> ea7046d154333bacbc9446eb046721477fe14bcb
